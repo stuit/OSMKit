@@ -1,5 +1,5 @@
 # OSMKit
-OSMKit is helpful library for parsing and storing [OpenStreetMap](https://openstreetmpa.org) data in a [spatialite](http://www.gaia-gis.it/gaia-sins/) databse. OSMKit supports nodes, ways, relations, users and notes objects.
+OSMKit is helpful library for parsing and storing [OpenStreetMap](https://openstreetmap.org) data in a [spatialite](http://www.gaia-gis.it/gaia-sins/) databse. OSMKit supports nodes, ways, relations, users and notes objects.
 
 ##How to Get Started
 
